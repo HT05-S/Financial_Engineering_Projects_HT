@@ -1,0 +1,13 @@
+# Ignore local class materials
+class_materials/
+# Ignore Python cache files
+__pycache__/
+*.pyc
+# Ignore environment files
+.env
+# Ignore Large files
+*.bin
+*.safetensors
+*.json
+.git1
+*.pt
