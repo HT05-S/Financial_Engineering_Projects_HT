@@ -31,6 +31,6 @@ A key technical result from the fine-tuning process was the determination of an 
 - Model Loading: The project assumes that the fine-tuned model files (config.json, pytorch_model.bin, etc.) are portable and can be loaded correctly into the Streamlit environment without pathing or versioning issues.
 
 ## 6. Local Setup-
-- Go to notebooks folder in project_financial_sentiment_analysis.
+- Go to notebooks folder in Financial_Sentiment_Analysis.
 - Run Market_Sentiment.ipynb
 - Run streamlit_app.py

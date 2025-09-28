@@ -1,4 +1,4 @@
-## Project Report: Financial Sentiment Analyzer
+## Project Report: Market Anomaly Detector
 
 ## 1. Project Overview-
 This project is an advanced Market Anomaly Detection System developed in Python, designed to identify and analyze unusual events within financial time series data. It integrates a range of statistical and machine learning methodologies to provide a comprehensive view of market anomalies. The system's core component is the MarketAnomalyDetector class, which implements five distinct detection algorithms: Statistical Process Control (Z-Score), Volatility Clustering, Jump-Diffusion, Isolation Forest, and Regime Change Detection. The project is deployed as a user-friendly Streamlit application, allowing users to interactively analyze market data for any specified stock ticker and date range. This system is a powerful tool for risk management, quantitative research, and market surveillance.
@@ -48,6 +48,6 @@ The interactive visualizations are a key strength, allowing for a detailed explo
 - Library Dependencies: The project relies on external libraries (streamlit, pandas, numpy, plotly, scipy, sklearn, yfinance). It is assumed that these libraries are correctly installed in the user's environment.
 
 ## 6. Local Setup-
-- Got to server folder in project_Unusualevents_analysis.
+- Go to server folder in Market_Anomaly_Detector.
 - Run detectorclass.py in unusual events.
 - Run market_anomaly_detector.py in server folder.
